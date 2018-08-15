@@ -1,0 +1,26 @@
+{
+  "name": "chartjs-plugin-interpolate",
+  "version": "1.0.1",
+  "description": "Interpolation Interaction plugin for Chart.js",
+  "main": "src/chartjs-plugin-interpolate.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbelHeinsbroek/chartjs-plugin-interpolate.git"
+  },
+  "keywords": [
+    "chartjs",
+    "plugin",
+    "interpolate",
+    "interaction",
+    "tooltip"
+  ],
+  "author": "Abel Heinsbroek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AbelHeinsbroek/chartjs-plugin-interpolate/issues"
+  },
+  "homepage": "https://github.com/AbelHeinsbroek/chartjs-plugin-interpolate#readme"
+}
